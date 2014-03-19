@@ -1,0 +1,8 @@
+pixi js tutorial
+
+Now start the server for testing:
+    http-server .
+    (OR lighttpd -D -f lighttpd.conf)
+    
+
+ 
